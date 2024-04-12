@@ -12,3 +12,4 @@ callgrind.*
 *.o
 a.out
 *.code-workspace
+CMakeUserPresets.json
